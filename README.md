@@ -1,4 +1,5 @@
 **Overview**
+
 Jill has asked us to use our machine learning skills to evaluate credit risk. We will be using credit card data from LendingClub a peer-to-peer lending company. We will use RandomOverSampler, SMOTE, SMOTEENN, BalancedRandomForestClassifier, EasyEnsembleClassifier to predict credit risk 
 
 **Results**
